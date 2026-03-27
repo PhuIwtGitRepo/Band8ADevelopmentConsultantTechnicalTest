@@ -14,7 +14,7 @@ Develop a `PatientFlowService` that handles the lifecycle of a patient's stay wi
 
 1.  **Admission**
     * Admit a patient to a specific Ward.
-    * **Validation:** The patient must have a valid 10-digit **NHS Number**. You must implement the [Modulus 11 Checksum algorithm](https://digital.nhs.uk/services/nems/guidance-for-the-nhs-number-checksum-and-validation) to verify it.
+    * **Validation:** The patient must have a valid 10-digit **NHS Number**. You must implement the [Modulus 11 Checksum algorithm](https://www.datadictionary.nhs.uk/attributes/nhs_number.html) to verify it.
     * **Constraint:** A patient cannot be admitted if they are already currently admitted in the system.
 
 2.  **Transfer**
