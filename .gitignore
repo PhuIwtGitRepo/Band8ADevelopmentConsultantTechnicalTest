@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TechTest/PhuIwt-TechTest-B8A/.vs/PhuIwt-TechTest-B8A/FileContentIndex
+/TechTest/PhuIwt-TechTest-B8A/PhuIwt-TechTest-B8A.csproj
+/TechTest/PhuIwt-TechTest-B8A/obj/Debug/net8.0
