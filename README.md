@@ -5,7 +5,7 @@ In an NHS hospital environment, managing the movement of patients is critical fo
 
 Your task is to build a core logic library in **C#** that manages these transitions while ensuring data integrity, patient safety, and adherence to NHS standards.
 
-This repo includes a shell of a project, with a class library, and 2 unit test projects. You only need to pick one test project to write the tests in. This is just a shell, so feel free to add more projects to the solution if you need to. You will need to click the green "Use this template" button to generate a brand-new, completely fresh repository in your own GitHub account. Once you are finished, please provide a link to your repo so we can review. 
+This repo includes a shell of a project, with a class library, and 2 unit test projects. You only need to pick one test project to write the tests in. This is just a shell, so feel free to add more projects to the solution if you need to. 
 
 ---
 
